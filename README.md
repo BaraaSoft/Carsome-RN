@@ -1,5 +1,5 @@
 # Carsome-RN
-This is Carsome task using React Native :)
+This is the task using React Native :)
 
 ## Usage 
 
